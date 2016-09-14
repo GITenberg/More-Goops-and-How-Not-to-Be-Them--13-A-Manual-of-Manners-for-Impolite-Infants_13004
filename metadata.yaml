@@ -1,0 +1,29 @@
+_repo: More-Goops-and-How-Not-to-Be-Them--13-A-Manual-of-Manners-for-Impolite-Infants_13004
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burgess, Gelett
+    alias: Burgess, Frank Gelett
+    birthdate: 1866
+    deathdate: 1951
+    gutenberg_agent_id: '3732'
+    url: http://www.gutenberg.org/2009/agents/3732
+    wikipedia: http://en.wikipedia.org/wiki/Gelett_Burgess
+description: ''
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2004-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13004'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Behavior'
+- !lcsh 'Etiquette'
+- !lcsh 'Etiquette for children and teenagers'
+- GITenberg
+title: 'More Goops and How Not to Be Them: A Manual of Manners for Impolite Infants'
+url: http://www.gutenberg.org/ebooks/13004
